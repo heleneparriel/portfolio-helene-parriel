@@ -40,9 +40,20 @@ h2 {
   padding-bottom: 120px;
   line-height: 150%;
 }
+@media (max-width: 500px) {
+  h2 {
+    font-size: 1.7em;
+  }
+}
 
 h3 {
   font-size: 2em;
+}
+
+@media (max-width: 600px) {
+  h3 {
+    font-size: 1.1em;
+  }
 }
 
 h4 {
