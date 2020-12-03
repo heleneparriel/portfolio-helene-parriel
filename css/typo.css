@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://use.typekit.net/duo2dgy.css">
 
 html {
   font-size: 100%;
@@ -17,6 +16,9 @@ p {
 }
 
 h1 {
+  font-family: orpheuspro, serif;
+  font-style: normal;
+  font-weight: 400;
   color: black;
   text-align: center;
   font-size: 6em;
