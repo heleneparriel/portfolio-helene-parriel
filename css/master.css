@@ -235,7 +235,8 @@ animation-play-state: paused;
   .contact {
   min-height: 70vh;
   align-items: center;
-  display: flex;
+  margin: 2em;
+  text-align: center;
   flex-direction: row-reverse;
   justify-content: space-around;
   flex-basis: 650px;
@@ -247,5 +248,5 @@ animation-play-state: paused;
     max-width : 75%;
     height: auto;
     min-width: 380px;
-  padding: 1em;
+    justify-content: center;
   }
