@@ -247,6 +247,6 @@ animation-play-state: paused;
     width: 50%;
     max-width : 75%;
     height: auto;
-    min-width: 380px;
+    min-width: 300px;
     justify-content: center;
   }
